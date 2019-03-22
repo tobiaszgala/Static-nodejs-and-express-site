@@ -1,0 +1,12 @@
+extends layout.pug
+
+block content
+    article(class="grid-container portfolio-intro")
+        div
+            h1 Oh, no! There was an error!
+            //- Display error status and message
+            p.lead.text-light= `${error.status} - ${error.message}`
+            h2 Output:
+            //- Display error stack 
+            p.lead.text-light= error.stack
+        

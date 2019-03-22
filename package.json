@@ -1,0 +1,28 @@
+{
+  "name": "static-nodejs-and-express-site",
+  "version": "1.0.0",
+  "description": "Static nodejs and express site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js -e js,pug,json,css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tobiaszgala/Static-nodejs-and-express-site.git"
+  },
+  "author": "Tobiasz Gala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobiaszgala/Static-nodejs-and-express-site/issues"
+  },
+  "homepage": "https://github.com/tobiaszgala/Static-nodejs-and-express-site#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

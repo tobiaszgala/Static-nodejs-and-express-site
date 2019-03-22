@@ -1,0 +1,107 @@
+{
+    "projects" : [
+        {
+            "id" : "0",
+            "project_name" : "Random Quote Generator",
+            "description" : "Simple random quote generator using javascript. It generates random famous quote each time a button is clicked or every 10 seconds.",
+            "technologies" : [
+                "HTML", 
+                "CSS", 
+                "Javascript"
+            ],
+            "live_link" : "https://tobiaszgala.github.io/Random-Quote-Generator-JS/",
+            "github_link" : "https://github.com/tobiaszgala/Random-Quote-Generator-JS",
+            "image_url" : [
+                "../static/img/0/thumbnail.png",
+                "../static/img/0/1.png", 
+                "../static/img/0/2.png"
+            ]
+        },
+        {
+            "id": "1",
+            "project_name": "Pagination and content filter",
+            "description": "Example of pagination and content filtering using unobstrusive javascript.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "https://tobiaszgala.github.io/Pagination-Content-Filter-JS/",
+            "github_link": "https://github.com/tobiaszgala/Pagination-Content-Filter-JS",
+            "image_url": [
+                "../static/img/1/thumbnail.png",
+                "../static/img/1/1.png",
+                "../static/img/1/2.png"
+            ]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive form",
+            "description": "Using javascript to enhance the form by adding interactivity. Example of filtering options and providing helpful error messages when the user enters invalid information.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "https://tobiaszgala.github.io/Interactive-Form-JS/",
+            "github_link": "https://github.com/tobiaszgala/Interactive-Form-JS",
+            "image_url": [
+                "../static/img/2/thumbnail.png",
+                "../static/img/2/1.png",
+                "../static/img/2/2.png"
+            ]
+        },
+        {
+            "id": "3",
+            "project_name": "Tic Tac Toe with Minimax",
+            "description": "Simple tic tac toe game using minimax algorithim and object oriented javascript. It supports player vs player and player vs Ai. I can bet you will never win playing master level!",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "live_link": "https://tobiaszgala.github.io/Tic-Tac-Toe-with-Minimax/",
+            "github_link": "https://github.com/tobiaszgala/Tic-Tac-Toe-with-Minimax",
+            "image_url": [
+                "../static/img/3/thumbnail.png",
+                "../static/img/3/1.png",
+                "../static/img/3/2.png",
+                "../static/img/3/3.png"
+            ]
+        },
+        {
+            "id": "4",
+            "project_name": "Employee Directory with public API",
+            "description": "Using javascript and OOP as well as fetch API to create an Employee Directory. This project is using <a href=\"https://randomuser.me/\">Random User API</a>",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Fetch API"
+            ],
+            "live_link": "https://tobiaszgala.github.io/Employee-Directory-with-Public-API",
+            "github_link": "https://github.com/tobiaszgala/Employee-Directory-with-Public-API",
+            "image_url": [
+                "../static/img/4/thumbnail.png",
+                "../static/img/4/1.png",
+                "../static/img/4/2.png"
+            ]
+        },
+        {
+            "id": "5",
+            "project_name": "Simple content scraper",
+            "description": "This project uses <a href=\"https://www.npmjs.com/package/ezscraper\">EZscraper</a> module to retrieve data and store it in CSV format. <a href=\"https://www.npmjs.com/package/ezscraper\">EZscraper</a> module was created while working on this project.",
+            "technologies": [
+                "Nodejs",
+                "NPM",
+                "Javascript"
+            ],
+            "github_link": "https://github.com/tobiaszgala/Simple-content-scraper",
+            "image_url": [
+                "../static/img/5/thumbnail.png",
+                "../static/img/5/1.png",
+                "../static/img/5/2.png"
+            ]
+        }
+    ]
+}
